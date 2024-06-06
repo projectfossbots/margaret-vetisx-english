@@ -10,7 +10,7 @@
 ```
 Name: Margaret
 Gender: Female
-Age: Unknown
+Age: 32
 Species: Unknown
 SCP Object Class: Safe
 SCP Number: 049
